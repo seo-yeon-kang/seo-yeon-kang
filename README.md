@@ -1,5 +1,6 @@
 # 🐸강서연 Seoyeon Kang😎
 ### 안녕하세요 비전공자 출신 초보 개발자입니다
+### 아자아자 화이팅입니다~
 
 ## Tech Stack💻
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
